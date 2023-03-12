@@ -7,10 +7,10 @@
           <center>SEATERS</center>
         </td>
         <td width="121">
-          <center>First Instalment</center>
+          <center>First Installment</center>
         </td>
         <td width="133">
-          <center>Second instalment</center>
+          <center>Second Installment</center>
         </td>
         <td width="522">
           <center>Total Fees</center>

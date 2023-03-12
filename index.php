@@ -95,18 +95,18 @@ $footerdisp = mysqli_fetch_array($q41);
 				<div id="wowslider-container1">
 					<div class="ws_images">
 						<ul>
-							<li><img src="data1/images/banner_01.jpg" alt="Multispeciality College Campus" title="Multispeciality College Campus" id="wows1_0" /></li>
-							<li><img src="data1/images/highlightnews.jpg" alt="International Accredition" title="International Accredition" id="wows1_1" /></li>
-							<li><img src="data1/images/img21644.jpg" alt="Best Overall Employement" title="Best Overall Employement" id="wows1_2" /></li>
+							<!-- <li><img src="data1/images/banner_01.jpg" alt="Multispeciality College Campus" title="Multispeciality College Campus" id="wows1_0" /></li> -->
 							<li><img src="data1/images/url.jpg" alt="Best Of Class Infrastructure" title="Best Of Class Infrastructure" id="wows1_3" /></li>
+							<li><img src="data1/images/img21644.jpg" alt="Best Overall Employement" title="Best Overall Employement" id="wows1_2" /></li>
+							<li><img src="data1/images/highlightnews.jpg" alt="International Accredition" title="International Accredition" id="wows1_1" /></li>
 						</ul>
 					</div>
 					<div class="ws_bullets">
 						<div>
-							<a href="#" title="Multispeciality College Campus"><img src="data1/tooltips/banner_01.jpg" alt="Multispeciality College Campus" />1</a>
-							<a href="#" title="International Accredition"><img src="data1/tooltips/highlightnews.jpg" alt="International Accredition" />2</a>
-							<a href="#" title="Best Overall Employement"><img src="data1/tooltips/img21644.jpg" alt="Best Overall Employement" />3</a>
+							<!-- <a href="#" title="Multispeciality College Campus"><img src="data1/tooltips/banner_01.jpg" alt="Multispeciality College Campus" />1</a> -->
 							<a href="#" title="Best Of Class Infrastructure"><img src="data1/tooltips/url.jpg" alt="Best Of Class Infrastructure" />4</a>
+							<a href="#" title="Best Overall Employement"><img src="data1/tooltips/img21644.jpg" alt="Best Overall Employement" />3</a>
+							<a href="#" title="International Accredition"><img src="data1/tooltips/highlightnews.jpg" alt="International Accredition" />2</a>
 						</div>
 					</div>
 					<span class="wsl"></span>

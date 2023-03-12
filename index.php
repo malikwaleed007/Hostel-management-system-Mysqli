@@ -154,7 +154,7 @@ $footerdisp = mysqli_fetch_array($q41);
 								</font>
 							</b></h2>
 					</center>
-					<center><img src="images/colg.jpg" width="696" height="488"></center>
+					<center><img src="images/michael-marsh-U0dBV_QeiYk-unsplash.jpg" width="696" height="488"></center>
 					<p>
 						<center>
 							<p>&nbsp;</p>

@@ -31,7 +31,7 @@ $footerdisp = mysqli_fetch_array($q41);
 <html>
 
 <head>
-	<title>IT Project</title>
+	<title>Vertigo</title>
 	<link rel="stylesheet" type="text/css" href="engine/css/slideshow.css" media="screen" />
 	<style type="text/css">
 		.slideshow a#vlb {

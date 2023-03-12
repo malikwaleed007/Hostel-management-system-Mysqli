@@ -63,10 +63,10 @@ if ($_SESSION['user'] == "") {
 		<tr>
 			<th height="39" colspan="2" style="background-color:#4E4E4E">
 				<div style="text-align:left;color:#FFFFFF"><b>
-						<font size="+3"><a href="index.php" style="text-decoration:none ; color:#FFFFFF">ABC Group Of Institutions</a></font>
+						<font size="+3"><a href="index.php" style="text-decoration:none ; color:#FFFFFF">Vertigo College of Technology</a></font>
 					</b>
 					<marquee direction="left" height="100%">
-						This Message will be editable by Administrator After Login!</marquee>
+						Rooms are vacant in facility 3-A. Contact your concerned warden for room change. Pay the hostel fees before 31st March!</marquee>
 				</div>
 			</th>
 		</tr>
@@ -116,7 +116,7 @@ if ($_SESSION['user'] == "") {
 				?>
 					<html>
 					<h1>
-						<center>Welcome <?php echo $_SESSION['user']; ?></center>
+						<center>Welcome <?php echo $_SESSION['user']; ?>! You have been logged in successfully. Browse through the menus to check various details about the fee structures</center>
 					</h1>
 
 					</html>
